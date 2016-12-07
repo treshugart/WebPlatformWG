@@ -181,3 +181,15 @@ footer a, footer a:visited, footer a:focus, footer a:hover {
     padding-bottom: 2rem;
   }
 }
+
+/* Dynamic stuff (Apiary) */
+
+[data-apiary]:not(.apiary-done) {
+  visibility: hidden;
+}
+
+main nav .dynamic {
+  max-height: 16ex;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
