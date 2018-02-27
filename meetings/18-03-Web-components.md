@@ -37,11 +37,11 @@
 * [chaals nevile](https://github.com/chaals) - (WG co-chair)
 * [Rob Wormald](https://github.com/robwormald) - Google (Angular)
 * [Adam Bradley](https://github.com/adamdbradley) - (join remotely) ionic and stenciljs
+* [Trey Shugart](https://github.com/treshugart) - Invited expert (SkateJS, Atlassian)
 
 (Please make a PR to add your name here)
 
 ### Hopeful
-* [Trey Shugart](https://github.com/treshugart) - Atlassian
 * [Sangwhan Moon](https://github.com/cynthia) - Invited expert
 
 (Please make a PR to add your name here)
